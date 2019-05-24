@@ -1,0 +1,124 @@
+.
+├── barem
+│  ├── oti_2019_csharp_bar.pdf
+│  ├── oti_2019_tic_09_bar.pdf
+│  ├── oti_2019_tic_10_bar.pdf
+│  ├── oti_2019_tic_11_bar.pdf
+│  └── oti_2019_tic_12_bar.pdf
+├── download_pdf.sh
+├── liste
+│  ├── oti_2019_lista.pdf
+│  ├── oti_2019_lista_final.pdf
+│  ├── oti_2019_tic_09_lista.pdf
+│  ├── oti_2019_tic_10_lista.pdf
+│  ├── oti_2019_tic_11_lista.pdf
+│  └── oti_2019_tic_12_lista.pdf
+├── oficial
+│  ├── oti_2019_anunt_contestatii.pdf
+│  ├── oti_2019_centre_cazare.pdf
+│  ├── oti_2019_centre_concurs.pdf
+│  ├── oti_2019_precizari.pdf
+│  ├── oti_2019_program.pdf
+│  ├── oti_2019_regulament.pdf
+│  └── oti_2019_specificatii_tehnice.pdf
+├── old_names.txt
+├── repartizare
+│  ├── oti_2019_tic_09_repartizare.pdf
+│  ├── oti_2019_tic_10_repartizare.pdf
+│  ├── oti_2019_tic_11_repartizare.pdf
+│  ├── oti_2019_tic_12_repartizare.pdf
+│  └── oti_2019_tic_csharp_repartizare.pdf
+├── rezultate
+│  ├── finale
+│  │  ├── oti_2019_charp_rezultate_finale.pdf
+│  │  ├── oti_2019_tic_09_rezultate_finale.pdf
+│  │  ├── oti_2019_tic_10_rezultate_finale.pdf
+│  │  ├── oti_2019_tic_11_rezultate_finale.pdf
+│  │  └── oti_2019_tic_12_rezultate_finale.pdf
+│  ├── initiale
+│  │  ├── oti_2019_charp_rezultate_initiale.pdf
+│  │  ├── oti_2019_tic_09_rezultate_initiale.pdf
+│  │  ├── oti_2019_tic_10_rezultate_initiale.pdf
+│  │  ├── oti_2019_tic_11_rezultate_initiale.pdf
+│  │  └── oti_2019_tic_12_rezultate_initiale.pdf
+│  └── premii
+│     ├── oti_2019_csharp_premii.pdf
+│     ├── oti_2019_tic_09_premii.pdf
+│     ├── oti_2019_tic_10_premii.pdf
+│     ├── oti_2019_tic_11_premii.pdf
+│     └── oti_2019_tic_12_premii.pdf
+└── subiecte
+   ├── oti_2019_csharp_sub_hu.pdf
+   ├── oti_2019_csharp_sub_ro.pdf
+   ├── oti_2019_tic_09_sub_hu.pdf
+   ├── oti_2019_tic_09_sub_ro.pdf
+   ├── oti_2019_tic_10_sub_hu.pdf
+   ├── oti_2019_tic_10_sub_ro.pdf
+   ├── oti_2019_tic_11_sub_hu.pdf
+   ├── oti_2019_tic_11_sub_ro.pdf
+   ├── oti_2019_tic_12_sub_hu.pdf
+   └── oti_2019_tic_12_sub_ro.pdf
+
+
+
+<pre><font color="#3465A4">.</font>
+<font color="#808080">├──</font> <font color="#3465A4">barem</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_csharp_bar.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_09_bar.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_10_bar.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_11_bar.pdf</font>
+<font color="#808080">│  └──</font> <font color="#8787FF">oti_2019_tic_12_bar.pdf</font>
+<font color="#808080">├──</font> <font color="#4E9A06">download_pdf.sh</font>
+<font color="#808080">├──</font> <font color="#3465A4">liste</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_lista.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_lista_final.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_09_lista.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_10_lista.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_11_lista.pdf</font>
+<font color="#808080">│  └──</font> <font color="#8787FF">oti_2019_tic_12_lista.pdf</font>
+<font color="#808080">├──</font> <font color="#3465A4">oficial</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_anunt_contestatii.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_centre_cazare.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_centre_concurs.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_precizari.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_program.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_regulament.pdf</font>
+<font color="#808080">│  └──</font> <font color="#8787FF">oti_2019_specificatii_tehnice.pdf</font>
+<font color="#808080">├──</font> old_names.txt
+<font color="#808080">├──</font> <font color="#3465A4">repartizare</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_09_repartizare.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_10_repartizare.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_11_repartizare.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#8787FF">oti_2019_tic_12_repartizare.pdf</font>
+<font color="#808080">│  └──</font> <font color="#8787FF">oti_2019_tic_csharp_repartizare.pdf</font>
+<font color="#808080">├──</font> <font color="#3465A4">rezultate</font>
+<font color="#808080">│  ├──</font> <font color="#3465A4">finale</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_charp_rezultate_finale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_09_rezultate_finale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_10_rezultate_finale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_11_rezultate_finale.pdf</font>
+<font color="#808080">│  │  └──</font> <font color="#8787FF">oti_2019_tic_12_rezultate_finale.pdf</font>
+<font color="#808080">│  ├──</font> <font color="#3465A4">initiale</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_charp_rezultate_initiale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_09_rezultate_initiale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_10_rezultate_initiale.pdf</font>
+<font color="#808080">│  │  ├──</font> <font color="#8787FF">oti_2019_tic_11_rezultate_initiale.pdf</font>
+<font color="#808080">│  │  └──</font> <font color="#8787FF">oti_2019_tic_12_rezultate_initiale.pdf</font>
+<font color="#808080">│  └──</font> <font color="#3465A4">premii</font>
+<font color="#808080">│     ├──</font> <font color="#8787FF">oti_2019_csharp_premii.pdf</font>
+<font color="#808080">│     ├──</font> <font color="#8787FF">oti_2019_tic_09_premii.pdf</font>
+<font color="#808080">│     ├──</font> <font color="#8787FF">oti_2019_tic_10_premii.pdf</font>
+<font color="#808080">│     ├──</font> <font color="#8787FF">oti_2019_tic_11_premii.pdf</font>
+<font color="#808080">│     └──</font> <font color="#8787FF">oti_2019_tic_12_premii.pdf</font>
+<font color="#808080">└──</font> <font color="#3465A4">subiecte</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_csharp_sub_hu.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_csharp_sub_ro.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_09_sub_hu.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_09_sub_ro.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_10_sub_hu.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_10_sub_ro.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_11_sub_hu.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_11_sub_ro.pdf</font>
+<font color="#808080">   ├──</font> <font color="#8787FF">oti_2019_tic_12_sub_hu.pdf</font>
+<font color="#808080">   └──</font> <font color="#8787FF">oti_2019_tic_12_sub_ro.pdf</font>
+</pre>
